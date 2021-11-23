@@ -1,4 +1,4 @@
-name: TestRDP
+name: freerdp6hours
 
 on: workflow_dispatch
 
